@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ericryanbarnes
+- 👀 I’m interested in Python, Go, Java, C++
+- 🌱 I’m currently learning Cybersecurity stuffs
+- 💞️ I’m looking to collaborate on ??
+- 📫 How to reach me #SHRUGS
